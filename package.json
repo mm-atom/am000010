@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/am000010",
-	"version": "1.0.202003200948",
+	"version": "1.0.202004170857",
 	"description": "打开qq",
 	"scripts": {
 		"test": "tsc -w",
